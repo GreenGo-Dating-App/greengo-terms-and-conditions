@@ -37,48 +37,9 @@ These Terms and Conditions are compliant with:
 - **California Consumer Privacy Act (CCPA/CPRA)**
 - Various international consumer protection laws
 
-## Key Sections Covered
+## Key Sections Covered (v5.0.0 draft)
 
-1. **Definitions** - Key terms used throughout the agreement
-2. **Eligibility Requirements** - Age and legal capacity requirements
-3. **Account Registration** - Account creation and management rules
-4. **Service Description** - Platform purpose and features
-5. **Pre-Sale Terms** - Special conditions for founding members
-6. **Subscription Plans and Pricing** - Free and premium tiers
-7. **Payment Terms** - Accepted payment methods and processing
-8. **Right of Withdrawal and Refunds** - Consumer rights under Brazilian law
-9. **User Conduct and Community Guidelines**
-10. **Prohibited Activities**
-11. **User-Generated Content**
-12. **Intellectual Property Rights**
-13. **Safety and Reporting**
-14. **Matches and Communication**
-15. **Premium Features**
-16. **Third-Party Services**
-17. **Disclaimers and Limitations of Liability**
-18. **Indemnification**
-19. **Account Suspension and Termination**
-20. **Dispute Resolution**
-21. **Governing Law and Jurisdiction**
-22. **Modifications to Terms**
-23. **Severability**
-24. **Entire Agreement**
-25. **Contact Information**
-
-## Pre-Sale Information
-
-GreenGo Chat is currently in pre-sale phase:
-- **Expected Launch Date**: March 30, 2026
-- **Guaranteed Launch Date**: April 30, 2026 (latest)
-- **Pre-sale Refund Policy**: 100% refund available anytime before launch
-
-### Founding Member Benefits
-- Exclusive lifetime discounted pricing
-- Founding Member badge
-- Priority access to new features
-- Extended subscription period
-- Exclusive community access
-- Early beta feature access
+About these Terms; who can use GreenGo (18+); accounts and verification; what GreenGo is; memberships; coins; payments, withdrawal and refunds (Apple / Google / Stripe; EU 14 days; Brazil CDC art. 49); referrals and promotions; events; experiences (hosts and guests); business accounts; AI features; your content; rules of conduct; content moderation, reporting, statements of reasons and appeals (EU DSA); child safety; ending the contract; liability; changes; governing law and consumer protections.
 
 ## Contact Information
 
@@ -90,8 +51,8 @@ GreenGo Chat is currently in pre-sale phase:
 
 ## Version Control
 
-- **Last Updated**: January 26, 2026
-- **Effective Date**: January 26, 2026
+- **Current published version**: 4.0.0 (September 15, 2026)
+- **Draft**: 5.0.0 on branch compliance/p2-draft, pending counsel review
 
 ## Language Priority
 
