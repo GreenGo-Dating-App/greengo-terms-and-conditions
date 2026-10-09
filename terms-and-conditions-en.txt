@@ -1,11 +1,8 @@
 GREENGO TERMS AND CONDITIONS
 
 Version: 5.0.0
-Effective date: [EFFECTIVE DATE - TO CONFIRM]
+Effective date: 9 October 2026
 Previous version: 4.0.0 (15 September 2026)
-
-[DRAFT FOR COUNSEL REVIEW - NOT PUBLISHED. Remove this line when the text is
-approved and the corresponding app release is live.]
 
 ================================================================================
 1. ABOUT THESE TERMS
@@ -15,7 +12,7 @@ approved and the corresponding app release is live.]
 
   Universo Kardasha Ltda.
   CNPJ 40.486.663/0001-82
-  [STREET ADDRESS - TO CONFIRM], Sao Paulo - SP, Brazil
+  Av. Dona Helena Pereira de Moraes, 290, Sao Paulo - SP, 05707-400, Brazil
   Email: support@greengochat.com - Phone: +55 11 911142911
   ("GreenGo", "we", "us")
 
@@ -186,7 +183,7 @@ a store subscription: cancel it in the store.
   account.
 - Unless you cancel before the trial ends, the trial turns into a paid Base
   Membership, and the first payment is taken when the trial ends.
-- We remind you before the trial ends [INTENDED].
+- We remind you by email before the trial ends.
 
 7.5 Price changes
 - We will tell you about a price increase at least 30 days before it applies
@@ -272,7 +269,7 @@ c) We do not accept PayPal, boleto or other payment methods for GreenGo
 9.2 Prices and taxes
 - Prices are shown in your currency.
 - Prices include VAT or similar consumption taxes where the law requires them
-  to be included [counsel: tax set-up, see memo].
+  to be included.
 - Your bank may charge fees for currency conversion.
 
 9.3 Confirmation
@@ -297,9 +294,11 @@ c) Memberships (digital service)
    - If you asked us to start your Membership straight away, we refund the
      price minus a proportionate amount for the days you have already used.
 d) How to withdraw
-   - On the web, use the "Withdraw from contract" function: in GreenGo >
-     Settings > Purchases, or at [https://greengochat.com/withdraw - INTENDED].
-   - You can also send us a clear statement by email to billing@greengochat.com.
+   - On the web, use the "Withdraw from contract" function in GreenGo >
+     Settings > Purchases.
+   - You can also send us a clear statement by email to billing@greengochat.com,
+     for example: "I withdraw from my contract for [product], bought on [date],
+     account email [email]".
    - We confirm receipt by email.
    - We refund you within 14 days, with the same payment method.
 e) If you bought in the iOS or Android app, Apple or Google sold you the
@@ -311,7 +310,7 @@ e) If you bought in the iOS or Android app, Apple or Google sold you the
 a) You can withdraw from a purchase within 7 days of the purchase or of the
    start of the service, and receive a full refund.
 b) For web purchases, use the "Withdraw from contract" function or write to
-   billing@greengochat.com. We refund you within [15] days, with the same
+   billing@greengochat.com. We refund you within 15 days, with the same
    payment method. A Pix payment is refunded by Pix.
 c) For app purchases, ask Apple or Google first. If they do not solve it,
    contact us and we will help.
@@ -363,11 +362,26 @@ restricted. The organiser is responsible for:
 - keeping it lawful and safe;
 - cancelling it in good time if it cannot go ahead.
 
-11.2 Joining an Event through GreenGo is free. GreenGo does not sell tickets for
-user Events. If an organiser charges a fee, the payment is between you and the
-organiser, outside GreenGo, and GreenGo is not a party to it.
+11.2 Free and paid Events
+a) Joining a free Event is free.
+b) Business accounts can sell tickets for their Events. The ticket contract is
+   between you and the organiser: the organiser is the seller, sets the price
+   and the cancellation and refund policy, and is responsible for the Event and
+   for issuing any invoice or receipt and paying any taxes on the ticket.
+c) GreenGo takes no fee on tickets and never holds ticket money. You pay the
+   organiser directly, either through the organiser's own Stripe or Mercado
+   Pago account, or with a payment method the organiser lists (for example Pix
+   or a bank transfer). For listed payment methods, the organiser confirms your
+   payment; GreenGo does not check it.
+d) Buyer/guest name and email are shared with the event organizer for entry
+   (see the Privacy Policy, section 11.4).
+e) Your consumer rights against the organiser, including any right of
+   withdrawal, are those of the law that applies to the organiser's sale.
+   Contact the organiser first; if they do not answer, report the Event in the
+   app and we will act as described in section 18.
 
-11.3 Event check-in uses a QR code in the app. Checking in records that you
+11.3 Event check-in uses a QR code in the app. For paid Events the QR code is
+issued only after your payment is confirmed. Checking in records that you
 attended.
 
 11.4 External events and attractions
@@ -396,11 +410,14 @@ attended.
 - GreenGo is responsible for running the booking tools properly, and for
   acting on reports as described in section 18.
 
-12.2 Payment happens outside GreenGo
-- Paid Experiences are paid in cash at the meeting, or through the payment link
-  the Host shows on the listing.
-- No money passes through GreenGo, and GreenGo does not hold or refund
-  payments for Experiences.
+12.2 Payment goes directly to the Host
+- Paid Experiences are paid to the Host directly: through the Host's own
+  Stripe or Mercado Pago account, through a payment method the Host shows on
+  the listing, or in cash at the meeting where the listing allows it.
+- GreenGo takes no fee, no money passes through GreenGo, and GreenGo does not
+  hold or refund payments for Experiences.
+- Guest name and email are shared with the Host for entry (see the Privacy
+  Policy, section 11.4).
 - GreenGo records the booking, the agreed price and, if there is a
   cancellation or a dispute, the refund the cancellation policy says the Host
   owes.
@@ -651,8 +668,8 @@ the rights of everyone involved, including freedom of expression.
 - Use "Report" on any profile, message, post, community, event, experience or
   review.
 - You can also email safety@greengochat.com.
-- Anyone, including people without an account, can report illegal content at
-  [https://greengochat.com/report - INTENDED] (DSA art. 16).
+- Anyone, including people without an account, can report illegal content by
+  email to safety@greengochat.com (DSA art. 16).
 
 A good report includes:
 - where the content is (a link or description);
@@ -707,8 +724,9 @@ or to a consumer authority (section 26).
   Portuguese.
 - For users: safety@greengochat.com and the in-app support chat, in any
   language the app supports.
-- Our legal representative in the EU under DSA art. 13 is:
-  [NAME, ADDRESS, EMAIL - TO APPOINT].
+- We are appointing a legal representative in the EU under DSA art. 13 and
+  will publish their details here. Until then, authorities can use
+  legal@greengochat.com.
 
 ================================================================================
 19. CHILD SAFETY
@@ -730,8 +748,7 @@ d) We cooperate with the police and the courts.
 
 19.3 Report suspected minors or child-safety concerns in the app, which offers
 the reason "Child sexual exploitation", or at safety@greengochat.com. Our child
-safety standards are published at [https://greengochat.com/child-safety -
-INTENDED].
+safety standards are published at https://greengochat.com/child-safety.
 
 ================================================================================
 20. ENDING THE CONTRACT
@@ -761,8 +778,7 @@ If we close your account because of a serious breach by you:
 - your Coins are lost;
 - we do not refund what you have already used.
 
-Where the law requires a refund of unused prepaid amounts, we give it
-[counsel to confirm].
+Where the law requires a refund of unused prepaid amounts, we give it.
 
 20.5 If we close the Services, or close your account without any fault on your
 part
@@ -795,8 +811,13 @@ through a Business account) in line with these Terms and the EULA.
 21.4 Infringing content
 - If you believe Content on GreenGo infringes your copyright or other rights,
   report it as described in section 18.1.
-- US notices under the DMCA can be sent to legal@greengochat.com
-  [counsel: designate a DMCA agent if needed].
+- US notices under the Digital Millennium Copyright Act (DMCA) can be sent to
+  our copyright agent at copyright@greengochat.com. A notice must include
+  your signature, the work you claim is infringed, where the infringing
+  Content is on GreenGo, your contact details, a statement of good-faith
+  belief and a statement, under penalty of perjury, that the notice is
+  accurate and that you are authorised to act.
+- If you are a repeat infringer, we close your account.
 
 ================================================================================
 22. OTHER SERVICES AND LINKS
@@ -861,7 +882,7 @@ b) when they take effect, we ask you to accept them in the app;
 c) if you do not accept, you can end the contract free of charge before the
    change takes effect. You will receive a refund of the unused part of any
    prepaid Membership. Until you end it, the previous version keeps applying
-   to you, for up to [60] days. After that period we may end the contract
+   to you, for up to 60 days. After that period we may end the contract
    with notice.
 
 24.3 Changes that only benefit you, or that are needed immediately for legal or
@@ -877,7 +898,7 @@ request.
 
 If you are unhappy, contact us first at support@greengochat.com, or at
 legal@greengochat.com for legal matters. We will try to solve the problem
-within [15] days. This step is optional: you can always use the options in
+within 15 days. This step is optional: you can always use the options in
 section 26 directly.
 
 ================================================================================
@@ -912,8 +933,7 @@ Disputes go to the courts of the city of Sao Paulo, Brazil.
 
 26.5 Out-of-court dispute resolution
 We are not currently obliged to take part in consumer alternative dispute
-resolution procedures in the EU. [Counsel to confirm whether GreenGo commits to
-a specific ADR body.] For moderation decisions, see section 18.5.
+resolution procedures in the EU. For moderation decisions, see section 18.5.
 
 ================================================================================
 27. GENERAL
@@ -944,19 +964,20 @@ statutory rights.
 ================================================================================
 
 Universo Kardasha Ltda. - CNPJ 40.486.663/0001-82
-[STREET ADDRESS - TO CONFIRM], Sao Paulo - SP, Brazil
+Av. Dona Helena Pereira de Moraes, 290, Sao Paulo - SP, 05707-400, Brazil
 
 Support: support@greengochat.com - Phone: +55 11 911142911
 Billing and withdrawal: billing@greengochat.com
 Safety and child safety: safety@greengochat.com
 Legal, and authorities (DSA point of contact): legal@greengochat.com
 Privacy: privacy@greengochat.com
+Copyright (DMCA): copyright@greengochat.com
 
 ================================================================================
 VERSION HISTORY
 ================================================================================
 
-5.0.0 - [EFFECTIVE DATE]
+5.0.0 - 9 October 2026
 Full rewrite:
 - describes the real product (no partner-finding features);
 - one definition of Coins, including the gifting rules and refund clawback;
@@ -967,7 +988,7 @@ Full rewrite:
 - Brazil CDC art. 49;
 - new sections: DSA moderation, notice and action, statements of reasons and
   appeals; child safety; referral, events, experiences and business account
-  terms; AI features.
+  terms; paid tickets sold directly by organisers; AI features.
 
 Removed:
 - "continued use means acceptance";
