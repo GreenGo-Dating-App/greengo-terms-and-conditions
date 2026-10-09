@@ -23,7 +23,7 @@ This repository contains the official Terms and Conditions for GreenGo Chat in a
 
 ## Legal Compliance
 
-These Terms and Conditions are compliant with:
+These Terms and Conditions are written to meet the requirements of:
 
 ### Brazilian Regulations
 - **Brazilian Civil Code** (Law No. 10.406/2002)
@@ -37,12 +37,13 @@ These Terms and Conditions are compliant with:
 - **California Consumer Privacy Act (CCPA/CPRA)**
 - Various international consumer protection laws
 
-## Key Sections Covered (v5.0.0 draft)
+## Key Sections Covered (v5.0.0)
 
 About these Terms; who can use GreenGo (18+); accounts and verification; what GreenGo is; memberships; coins; payments, withdrawal and refunds (Apple / Google / Stripe; EU 14 days; Brazil CDC art. 49); referrals and promotions; events; experiences (hosts and guests); business accounts; AI features; your content; rules of conduct; content moderation, reporting, statements of reasons and appeals (EU DSA); child safety; ending the contract; liability; changes; governing law and consumer protections.
 
 ## Contact Information
 
+- **Company**: Universo Kardasha Ltda., CNPJ 40.486.663/0001-82, Av. Dona Helena Pereira de Moraes, 290, Sao Paulo - SP, 05707-400, Brazil
 - **General Support**: support@greengochat.com
 - **Legal Inquiries**: legal@greengochat.com
 - **Safety Concerns**: safety@greengochat.com
@@ -51,14 +52,14 @@ About these Terms; who can use GreenGo (18+); accounts and verification; what Gr
 
 ## Version Control
 
-- **Current published version**: 4.0.0 (September 15, 2026)
-- **Draft**: 5.0.0 on branch compliance/p2-draft, pending counsel review
+- **Current published version**: 5.0.0 (October 9, 2026)
+- **Previous version**: 4.0.0 (September 15, 2026)
 
 ## Language Priority
 
 In case of discrepancy between translations:
-- **For users in Brazil**: Portuguese (Brazil) version prevails
-- **For users in other jurisdictions**: English version prevails
+- Where the law requires it, the version in the official language of the user's country of residence prevails (for users in Brazil: Portuguese (Brazil)).
+- Otherwise the English version prevails.
 
 ## License
 
