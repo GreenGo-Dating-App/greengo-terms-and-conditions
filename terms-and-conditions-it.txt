@@ -1,8 +1,8 @@
 TERMINI E CONDIZIONI DI GREENGO
 
-Versione: 5.0.0
-Data di entrata in vigore: 9 ottobre 2026
-Versione precedente: 4.0.0 (15 settembre 2026)
+Versione: 5.1.0
+Data di entrata in vigore: 11 ottobre 2026
+Versione precedente: 5.0.0 (9 ottobre 2026)
 
 ================================================================================
 1. INFORMAZIONI SU QUESTI TERMINI
@@ -672,6 +672,50 @@ Sono vietati:
 - Nessuna pubblicità non richiesta al di fuori degli Account business e delle
   aree a essa destinate.
 
+16.9 Foto, contenuti e dati personali degli altri utenti
+a) Senza il chiaro consenso della persona interessata, non devi:
+   - fare screenshot o registrazioni dello schermo, fotografare, scaricare,
+     salvare o copiare le foto private, i contenuti dell'album privato, le
+     foto, i video o i messaggi vocali delle chat di un altro utente, o i suoi
+     dati personali;
+   - condividere, inoltrare, pubblicare o postare uno qualsiasi di questi
+     contenuti, su GreenGo o altrove;
+   - usare uno qualsiasi di questi contenuti per minacciare, mettere in
+     imbarazzo, molestare, ricattare o identificare qualcuno.
+b) Non si tratta solo di una violazione dei presenti Termini. A seconda del
+   paese, può costituire un reato o un illecito civile che ti obbliga a
+   risarcire i danni, ad esempio ai sensi di:
+   - Brasile: art. 218-C del Codice penale brasiliano (introdotto dalla Lei
+     13.718/2018) per le immagini intime, diritti all'immagine e alla
+     riservatezza (Costituzione federale art. 5, X; Codice civile art. 20), la
+     LGPD e il Marco Civil da Internet (art. 21);
+   - Unione europea: il GDPR e le leggi nazionali, ad esempio l'art. 612-ter
+     del codice penale italiano per le immagini sessualmente esplicite;
+   - ovunque: diritti alla riservatezza e all'immagine, diritto d'autore e
+     leggi contro le molestie e l'estorsione.
+c) Se lo fai, possiamo:
+   - rimuovere i contenuti e sospendere o chiudere il tuo account, con effetto
+     immediato se il caso è grave;
+   - conservare le prove (ad esempio i contenuti, i dati del tuo account e la
+     conferma dell'avviso di cui alla lettera d) qui sotto) per tutto il tempo
+     consentito dalla legge;
+   - segnalare il fatto e collaborare con la polizia, i tribunali e le altre
+     autorità, e fornire loro queste prove quando la legge lo consente o lo
+     richiede;
+   - intraprendere azioni legali contro di te per tutelare le persone
+     coinvolte e GreenGo.
+d) Avviso che confermi. La prima volta che apri una foto privata, contenuti
+   dell'album privato o media delle chat di un altro utente, l'app ti mostra
+   un avviso su queste regole, e devi confermarlo ("Ho capito") prima che il
+   contenuto venga mostrato. Registriamo la tua conferma con la data e l'ora e
+   la versione dei presenti Termini, come prova che sei stato avvisato (vedi
+   l'Informativa sulla privacy, sezioni 10.5 e 14).
+e) GreenGo utilizza misure tecniche che rendono più difficile la copia (ad
+   esempio il blocco degli screenshot in alcune schermate e il marchio GreenGo
+   sulle foto aperte a schermo intero). Nessuna misura può impedire ogni
+   copia: queste regole si applicano indipendentemente dalla presenza di una
+   misura.
+
 ================================================================================
 17. COME MODERIAMO (POLITICA DI MODERAZIONE DEI CONTENUTI)
 ================================================================================
@@ -1049,6 +1093,12 @@ Diritto d'autore (DMCA): copyright@greengochat.com
 ================================================================================
 CRONOLOGIA DELLE VERSIONI
 ================================================================================
+
+5.1.0 - 11 ottobre 2026
+- Nuova sezione 16.9: l'uso improprio di foto, contenuti e dati personali di
+  altri utenti (screenshot, registrazioni, salvataggio, condivisione,
+  pubblicazione) è vietato e può essere illecito; conseguenze; l'avviso sui
+  contenuti privati che gli utenti confermano.
 
 5.0.0 - 9 ottobre 2026
 Riscrittura completa:

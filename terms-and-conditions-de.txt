@@ -1,8 +1,8 @@
 ALLGEMEINE GESCHÄFTSBEDINGUNGEN VON GREENGO
 
-Version: 5.0.0
-Gültig ab: 9. Oktober 2026
-Vorherige Version: 4.0.0 (15. September 2026)
+Version: 5.1.0
+Gültig ab: 11. Oktober 2026
+Vorherige Version: 5.0.0 (9. Oktober 2026)
 
 ================================================================================
 1. ÜBER DIESE BEDINGUNGEN
@@ -691,6 +691,53 @@ Keine:
 - Keine unerwünschte Werbung außerhalb von Business-Konten und den dafür
   vorgesehenen Bereichen.
 
+16.9 Fotos, Inhalte und personenbezogene Daten anderer Nutzer
+a) Ohne die eindeutige Einwilligung der betroffenen Person darfst du nicht:
+   - Screenshots oder Bildschirmaufnahmen von privaten Fotos, Inhalten privater
+     Alben, Chat-Fotos, Videos oder Sprachnachrichten eines anderen Nutzers
+     oder von seinen personenbezogenen Daten machen, sie abfotografieren,
+     herunterladen, speichern oder kopieren;
+   - etwas davon teilen, weiterleiten, veröffentlichen oder posten, weder auf
+     GreenGo noch anderswo;
+   - etwas davon verwenden, um jemanden zu bedrohen, bloßzustellen, zu
+     belästigen, zu erpressen oder zu identifizieren.
+b) Das ist nicht nur ein Verstoß gegen diese Bedingungen. Je nach Land kann es
+   eine Straftat oder eine unerlaubte Handlung sein, die dich zu
+   Schadensersatz verpflichtet, zum Beispiel nach:
+   - Brasilien: Art. 218-C des brasilianischen Strafgesetzbuchs (eingeführt
+     durch Lei 13.718/2018) für intime Bilder, dem Recht am eigenen Bild und
+     dem Recht auf Privatsphäre (Bundesverfassung Art. 5, X;
+     Zivilgesetzbuch Art. 20), dem LGPD und dem Marco Civil da Internet
+     (Art. 21);
+   - Europäische Union: der DSGVO und nationalen Gesetzen, zum Beispiel
+     Art. 612-ter des italienischen Strafgesetzbuchs für sexuell explizite
+     Bilder;
+   - überall: dem Recht auf Privatsphäre und am eigenen Bild, dem
+     Urheberrecht sowie Gesetzen gegen Belästigung und Erpressung.
+c) Wenn du das tust, können wir:
+   - den Inhalt entfernen und dein Konto sperren oder schließen, in schweren
+     Fällen sofort;
+   - die Beweise (zum Beispiel den Inhalt, deine Kontodaten und die
+     Bestätigung des Warnhinweises nach d) unten) so lange sichern, wie das
+     Gesetz es erlaubt;
+   - den Vorfall melden und mit Polizei, Gerichten und anderen Behörden
+     zusammenarbeiten und ihnen diese Beweise übergeben, soweit das Gesetz es
+     erlaubt oder verlangt;
+   - rechtliche Schritte gegen dich einleiten, um die betroffenen Personen und
+     GreenGo zu schützen.
+d) Warnhinweis, den du bestätigst. Wenn du zum ersten Mal ein privates Foto,
+   Inhalte eines privaten Albums oder Chat-Medien eines anderen Nutzers
+   öffnest, zeigt dir die App einen Warnhinweis zu diesen Regeln, und du musst
+   ihn bestätigen („Verstanden“), bevor der Inhalt angezeigt wird. Wir
+   speichern deine Bestätigung mit Datum, Uhrzeit und der Version dieser
+   Bedingungen als Nachweis, dass du gewarnt wurdest (siehe
+   Datenschutzerklärung, Abschnitte 10.5 und 14).
+e) GreenGo setzt technische Maßnahmen ein, die das Kopieren erschweren (zum
+   Beispiel das Blockieren von Screenshots auf einigen Bildschirmen und das
+   GreenGo-Zeichen auf Fotos, die im Vollbild geöffnet werden). Keine
+   Maßnahme kann jede Kopie verhindern: Diese Regeln gelten unabhängig davon,
+   ob eine Maßnahme vorhanden war oder nicht.
+
 ================================================================================
 17. WIE WIR MODERIEREN (RICHTLINIE ZUR INHALTSMODERATION)
 ================================================================================
@@ -1073,6 +1120,12 @@ Urheberrecht (DMCA): copyright@greengochat.com
 ================================================================================
 VERSIONSVERLAUF
 ================================================================================
+
+5.1.0 - 11. Oktober 2026
+- Neuer Abschnitt 16.9: Der Missbrauch von Fotos, Inhalten und
+  personenbezogenen Daten anderer Nutzer (Screenshots, Aufnahmen, Speichern,
+  Teilen, Veröffentlichen) ist verboten und kann rechtswidrig sein; Folgen;
+  der Warnhinweis zu privaten Inhalten, den Nutzer bestätigen.
 
 5.0.0 - 9. Oktober 2026
 Vollständige Neufassung:

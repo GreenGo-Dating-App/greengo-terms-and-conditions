@@ -1,8 +1,8 @@
 CONDITIONS GÉNÉRALES DE GREENGO
 
-Version : 5.0.0
-Date d'entrée en vigueur : 9 octobre 2026
-Version précédente : 4.0.0 (15 septembre 2026)
+Version : 5.1.0
+Date d'entrée en vigueur : 11 octobre 2026
+Version précédente : 5.0.0 (9 octobre 2026)
 
 ================================================================================
 1. À PROPOS DES PRÉSENTES CONDITIONS
@@ -713,6 +713,52 @@ Sont interdits :
 - Aucune publicité non sollicitée en dehors des Comptes professionnels et des
   espaces prévus à cet effet.
 
+16.9 Photos, contenus et données personnelles des autres utilisateurs
+a) Sans le consentement clair de la personne concernée, vous ne devez pas :
+   - faire des captures d'écran ou des enregistrements d'écran, photographier,
+     télécharger, enregistrer ou copier les photos privées, le contenu de
+     l'album privé, les photos, vidéos ou messages vocaux de discussion d'un
+     autre utilisateur, ni ses données personnelles ;
+   - les partager, les transférer, les publier ou les diffuser, sur GreenGo ou
+     ailleurs ;
+   - les utiliser pour menacer, humilier, harceler, faire chanter ou
+     identifier quelqu'un.
+b) Il ne s'agit pas seulement d'un manquement aux présentes Conditions. Selon
+   le pays, cela peut constituer une infraction pénale ou une faute civile
+   vous obligeant à verser des dommages et intérêts, par exemple en vertu :
+   - au Brésil : de l'art. 218-C du Code pénal brésilien (introduit par la
+     Lei 13.718/2018) pour les images intimes, des droits à l'image et à la
+     vie privée (Constitution fédérale art. 5, X ; Code civil art. 20), de la
+     LGPD et du Marco Civil da Internet (art. 21) ;
+   - dans l'Union européenne : du RGPD et des lois nationales, par exemple de
+     l'art. 612-ter du Code pénal italien pour les images sexuellement
+     explicites ;
+   - partout : des droits à la vie privée et à l'image, du droit d'auteur et
+     des lois contre le harcèlement et l'extorsion.
+c) Si vous le faites, nous pouvons :
+   - supprimer le contenu et suspendre ou fermer votre compte, immédiatement
+     lorsque le cas est grave ;
+   - conserver les preuves (par exemple le contenu, les données de votre
+     compte et la confirmation de l'avertissement visée au point d)
+     ci-dessous) aussi longtemps que la loi le permet ;
+   - signaler les faits à la police, aux tribunaux et aux autres autorités,
+     coopérer avec eux et leur remettre ces preuves lorsque la loi le permet
+     ou l'exige ;
+   - engager une action en justice contre vous pour protéger les personnes
+     concernées et GreenGo.
+d) Avertissement que vous confirmez. La première fois que vous ouvrez la photo
+   privée, le contenu de l'album privé ou les médias de discussion d'un autre
+   utilisateur, l'application vous affiche un avertissement concernant ces
+   règles, et vous devez le confirmer (« J'ai compris ») avant que le contenu
+   ne s'affiche. Nous enregistrons votre confirmation avec la date et l'heure
+   et la version des présentes Conditions, comme preuve que vous avez été
+   averti (voir la Politique de confidentialité, sections 10.5 et 14).
+e) GreenGo utilise des mesures techniques qui rendent la copie plus difficile
+   (par exemple le blocage des captures d'écran sur certains écrans et le
+   filigrane GreenGo sur les photos ouvertes en plein écran). Aucune mesure ne
+   peut empêcher toutes les copies : ces règles s'appliquent qu'une mesure ait
+   été en place ou non.
+
 ================================================================================
 17. NOTRE MODÉRATION (POLITIQUE DE MODÉRATION DES CONTENUS)
 ================================================================================
@@ -1104,6 +1150,13 @@ Droits d'auteur (DMCA) : copyright@greengochat.com
 ================================================================================
 HISTORIQUE DES VERSIONS
 ================================================================================
+
+5.1.0 - 11 octobre 2026
+- Nouveau point 16.9 : l'utilisation abusive des photos, contenus et données
+  personnelles d'autres utilisateurs (captures d'écran, enregistrements,
+  sauvegarde, partage, publication) est interdite et peut être illégale ;
+  conséquences ; l'avertissement relatif aux contenus privés que les
+  utilisateurs confirment.
 
 5.0.0 - 9 octobre 2026
 Refonte complète :

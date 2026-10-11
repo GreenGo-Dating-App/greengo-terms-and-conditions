@@ -1,8 +1,8 @@
 GREENGO TERMS AND CONDITIONS
 
-Version: 5.0.0
-Effective date: 9 October 2026
-Previous version: 4.0.0 (15 September 2026)
+Version: 5.1.0
+Effective date: 11 October 2026
+Previous version: 5.0.0 (9 October 2026)
 
 ================================================================================
 1. ABOUT THESE TERMS
@@ -620,6 +620,46 @@ No:
 - No unsolicited advertising outside Business accounts and the areas meant for
   it.
 
+16.9 Other users' photos, content and personal data
+a) Without the clear consent of the person concerned, you must not:
+   - take screenshots or screen recordings of, photograph, download, save or
+     copy another user's private photos, private-album content, chat photos,
+     videos or voice messages, or their personal data;
+   - share, forward, publish or post any of it, on GreenGo or anywhere else;
+   - use any of it to threaten, embarrass, harass, blackmail or identify
+     someone.
+b) This is not only a breach of these Terms. Depending on the country, it can
+   be a crime or a civil wrong that obliges you to pay damages, for example
+   under:
+   - Brazil: art. 218-C of the Penal Code (introduced by Lei 13.718/2018) for
+     intimate images, image and privacy rights (Federal Constitution art. 5,
+     X; Civil Code art. 20), the LGPD and the Marco Civil da Internet
+     (art. 21);
+   - the European Union: the GDPR and national laws, for example art.
+     612-ter of the Italian Penal Code for sexually explicit images;
+   - everywhere: privacy and image rights, copyright, and laws against
+     harassment and extortion.
+c) If you do it, we may:
+   - remove the content and suspend or close your account, immediately where
+     the case is serious;
+   - preserve the evidence (for example the content, your account data and
+     the warning confirmation in d) below) for as long as the law allows;
+   - report the matter and cooperate with the police, courts and other
+     authorities, and give them this evidence where the law allows or
+     requires it;
+   - take legal action against you to protect the people affected and
+     GreenGo.
+d) Warning you confirm. The first time you open another user's private photo,
+   private-album content or chat media, the app shows you a warning about
+   these rules, and you must confirm it ("I understand") before the content
+   is shown. We record your confirmation with the date and time and the
+   version of these Terms, as proof that you were warned (see the Privacy
+   Policy, sections 10.5 and 14).
+e) GreenGo uses technical measures that make copying harder (for example
+   blocking screenshots on some screens and the GreenGo mark on photos opened
+   full screen). No measure can stop every copy: these rules apply whether or
+   not a measure was in place.
+
 ================================================================================
 17. HOW WE MODERATE (CONTENT MODERATION POLICY)
 ================================================================================
@@ -976,6 +1016,11 @@ Copyright (DMCA): copyright@greengochat.com
 ================================================================================
 VERSION HISTORY
 ================================================================================
+
+5.1.0 - 11 October 2026
+- New section 16.9: misuse of other users' photos, content and personal data
+  (screenshots, recordings, saving, sharing, publishing) is prohibited and can
+  be unlawful; consequences; the private-content warning that users confirm.
 
 5.0.0 - 9 October 2026
 Full rewrite:

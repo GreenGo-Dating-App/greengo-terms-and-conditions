@@ -1,8 +1,8 @@
 TÉRMINOS Y CONDICIONES DE GREENGO
 
-Versión: 5.0.0
-Fecha de entrada en vigor: 9 de octubre de 2026
-Versión anterior: 4.0.0 (15 de septiembre de 2026)
+Versión: 5.1.0
+Fecha de entrada en vigor: 11 de octubre de 2026
+Versión anterior: 5.0.0 (9 de octubre de 2026)
 
 ================================================================================
 1. SOBRE ESTOS TÉRMINOS
@@ -671,6 +671,51 @@ Nada de:
 - Nada de publicidad no solicitada fuera de las Cuentas de empresa y de las
   zonas destinadas a ella.
 
+16.9 Fotos, contenido y datos personales de otros usuarios
+a) Sin el consentimiento claro de la persona afectada, no debes:
+   - hacer capturas de pantalla o grabaciones de pantalla, fotografiar,
+     descargar, guardar o copiar las fotos privadas, el contenido del álbum
+     privado, las fotos, vídeos o mensajes de voz del chat de otro usuario,
+     ni sus datos personales;
+   - compartir, reenviar, publicar o difundir nada de ello, ni en GreenGo ni en
+     ningún otro lugar;
+   - utilizar nada de ello para amenazar, avergonzar, acosar, chantajear o
+     identificar a alguien.
+b) Esto no es solo un incumplimiento de estos Términos. Según el país, puede
+   ser un delito o un ilícito civil que te obligue a pagar daños y perjuicios,
+   por ejemplo conforme a:
+   - Brasil: el art. 218-C del Código Penal brasileño (introducido por la Lei
+     13.718/2018) para las imágenes íntimas, los derechos a la propia imagen y
+     a la intimidad (Constitución Federal art. 5, X; Código Civil art. 20), la
+     LGPD y el Marco Civil da Internet (art. 21);
+   - la Unión Europea: el RGPD y las leyes nacionales, por ejemplo el art.
+     612-ter del Código Penal italiano para las imágenes sexualmente
+     explícitas;
+   - en todas partes: los derechos a la intimidad y a la propia imagen, los
+     derechos de autor y las leyes contra el acoso y la extorsión.
+c) Si lo haces, podemos:
+   - retirar el contenido y suspender o cerrar tu cuenta, de inmediato si el
+     caso es grave;
+   - conservar las pruebas (por ejemplo el contenido, los datos de tu cuenta y
+     la confirmación del aviso de la letra d) siguiente) durante el tiempo que
+     permita la ley;
+   - denunciar los hechos y colaborar con la policía, los tribunales y otras
+     autoridades, y entregarles estas pruebas cuando la ley lo permita o lo
+     exija;
+   - emprender acciones legales contra ti para proteger a las personas
+     afectadas y a GreenGo.
+d) Aviso que confirmas. La primera vez que abres una foto privada, contenido
+   del álbum privado o archivos multimedia del chat de otro usuario, la app te
+   muestra un aviso sobre estas normas, y debes confirmarlo («Entendido») antes
+   de que se muestre el contenido. Registramos tu confirmación con la fecha y
+   la hora y la versión de estos Términos, como prueba de que fuiste avisado
+   (consulta la Política de Privacidad, secciones 10.5 y 14).
+e) GreenGo utiliza medidas técnicas que dificultan la copia (por ejemplo el
+   bloqueo de las capturas de pantalla en algunas pantallas y la marca de
+   GreenGo en las fotos abiertas a pantalla completa). Ninguna medida puede
+   impedir todas las copias: estas normas se aplican tanto si había una
+   medida en vigor como si no.
+
 ================================================================================
 17. CÓMO MODERAMOS (POLÍTICA DE MODERACIÓN DE CONTENIDOS)
 ================================================================================
@@ -1048,6 +1093,12 @@ Derechos de autor (DMCA): copyright@greengochat.com
 ================================================================================
 HISTORIAL DE VERSIONES
 ================================================================================
+
+5.1.0 - 11 de octubre de 2026
+- Nueva sección 16.9: el uso indebido de las fotos, el contenido y los datos
+  personales de otros usuarios (capturas de pantalla, grabaciones, guardado,
+  difusión, publicación) está prohibido y puede ser ilícito; consecuencias; el
+  aviso sobre contenido privado que confirman los usuarios.
 
 5.0.0 - 9 de octubre de 2026
 Reescritura completa:

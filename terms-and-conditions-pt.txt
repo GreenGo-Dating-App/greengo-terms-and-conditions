@@ -1,8 +1,8 @@
 TERMOS E CONDIÇÕES DO GREENGO
 
-Versão: 5.0.0
-Data de entrada em vigor: 9 de outubro de 2026
-Versão anterior: 4.0.0 (15 de setembro de 2026)
+Versão: 5.1.0
+Data de entrada em vigor: 11 de outubro de 2026
+Versão anterior: 5.0.0 (9 de outubro de 2026)
 
 ================================================================================
 1. SOBRE ESTES TERMOS
@@ -673,6 +673,49 @@ Não são permitidos:
 - Não é permitida publicidade não solicitada fora das Contas de empresa e das
   áreas a ela destinadas.
 
+16.9 Fotos, conteúdos e dados pessoais de outros utilizadores
+a) Sem o consentimento claro da pessoa em causa, não pode:
+   - fazer capturas de ecrã ou gravações de ecrã, fotografar, descarregar,
+     guardar ou copiar as fotos privadas, os conteúdos do álbum privado, as
+     fotos, vídeos ou mensagens de voz do chat de outro utilizador, ou os seus
+     dados pessoais;
+   - partilhar, reencaminhar, publicar ou divulgar qualquer um destes
+     elementos, no GreenGo ou em qualquer outro local;
+   - utilizar qualquer um destes elementos para ameaçar, envergonhar, assediar,
+     chantagear ou identificar alguém.
+b) Isto não é apenas uma violação destes Termos. Consoante o país, pode
+   constituir um crime ou um ilícito civil que o obriga a pagar uma
+   indemnização por danos, por exemplo nos termos de:
+   - Brasil: art. 218-C do Código Penal brasileiro (introduzido pela Lei
+     13.718/2018) para imagens íntimas, os direitos à imagem e à privacidade
+     (Constituição Federal art. 5.º, X; Código Civil art. 20), a LGPD e o
+     Marco Civil da Internet (art. 21);
+   - União Europeia: o RGPD e as leis nacionais, por exemplo o art. 612-ter
+     do Código Penal italiano para imagens sexualmente explícitas;
+   - em todo o lado: os direitos à privacidade e à imagem, os direitos de
+     autor e as leis contra o assédio e a extorsão.
+c) Se o fizer, podemos:
+   - remover o conteúdo e suspender ou encerrar a sua conta, de imediato
+     quando o caso for grave;
+   - conservar as provas (por exemplo, o conteúdo, os dados da sua conta e a
+     confirmação do aviso referida na alínea d) abaixo) durante o tempo que a
+     lei permitir;
+   - comunicar o caso e cooperar com a polícia, os tribunais e outras
+     autoridades, e entregar-lhes estas provas quando a lei o permitir ou
+     exigir;
+   - intentar uma ação judicial contra si para proteger as pessoas afetadas e
+     o GreenGo.
+d) Aviso que confirma. Da primeira vez que abre uma foto privada, conteúdo do
+   álbum privado ou multimédia do chat de outro utilizador, a aplicação
+   mostra-lhe um aviso sobre estas regras, e tem de o confirmar
+   ("Compreendo") antes de o conteúdo ser mostrado. Registamos a sua
+   confirmação com a data e a hora e a versão destes Termos, como prova de
+   que foi avisado (ver a Política de Privacidade, secções 10.5 e 14).
+e) O GreenGo utiliza medidas técnicas que dificultam a cópia (por exemplo, o
+   bloqueio de capturas de ecrã em alguns ecrãs e a marca GreenGo nas fotos
+   abertas em ecrã inteiro). Nenhuma medida consegue impedir todas as cópias:
+   estas regras aplicam-se quer existisse ou não uma medida em vigor.
+
 ================================================================================
 17. COMO MODERAMOS (POLÍTICA DE MODERAÇÃO DE CONTEÚDOS)
 ================================================================================
@@ -1039,6 +1082,12 @@ Direitos de autor (DMCA): copyright@greengochat.com
 ================================================================================
 HISTÓRICO DE VERSÕES
 ================================================================================
+
+5.1.0 - 11 de outubro de 2026
+- Nova secção 16.9: a utilização abusiva de fotos, conteúdos e dados pessoais
+  de outros utilizadores (capturas de ecrã, gravações, guardar, partilhar,
+  publicar) é proibida e pode ser ilícita; consequências; o aviso de conteúdo
+  privado que os utilizadores confirmam.
 
 5.0.0 - 9 de outubro de 2026
 Reformulação integral:
