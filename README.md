@@ -52,8 +52,8 @@ About these Terms; who can use GreenGo (18+); accounts and verification; what Gr
 
 ## Version Control
 
-- **Current published version**: 5.1.0 (October 11, 2026) - new section 16.9: misuse of other users' photos, content and personal data
-- **Previous versions**: 5.0.0 (October 9, 2026), 4.0.0 (September 15, 2026)
+- **Current published version**: 5.1.1 (October 13, 2026) - section 9.2: prices are fixed price points per currency, broadly equivalent but not exact exchange-rate conversions
+- **Previous versions**: 5.1.0 (October 11, 2026), 5.0.0 (October 9, 2026), 4.0.0 (September 15, 2026)
 
 ## Language Priority
 
