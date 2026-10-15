@@ -52,8 +52,8 @@ About these Terms; who can use GreenGo (18+); accounts and verification; what Gr
 
 ## Version Control
 
-- **Current published version**: 5.1.2 (October 13, 2026) - section 9.2: price example updated to the current Base Membership price (USD 9.99 / BRL 29.90)
-- **Previous versions**: 5.1.1 (October 13, 2026), 5.1.0 (October 11, 2026), 5.0.0 (October 9, 2026), 4.0.0 (September 15, 2026)
+- **Current published version**: 5.2.0 (October 14, 2026) - paid tickets and bookings only through the in-app checkout (Stripe / Mercado Pago; payment links, other methods and cash removed); new 11.6 GreenGo service fee paid by the seller (Silver US$3 + 10% max US$10, Gold US$2 + 10% max US$9, Platinum US$1 + 10% max US$8, first paid listing US$1); new 11.7 active-listing limits per plan and downgrade rules; new 11.8 guest booking without an account; 13.7 Business accounts from Silver
+- **Previous versions**: 5.1.2 (October 13, 2026), 5.1.1 (October 13, 2026), 5.1.0 (October 11, 2026), 5.0.0 (October 9, 2026), 4.0.0 (September 15, 2026)
 
 ## Language Priority
 
