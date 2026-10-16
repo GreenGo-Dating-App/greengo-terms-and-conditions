@@ -52,11 +52,12 @@ About these Terms; who can use GreenGo (18+); accounts and verification; what Gr
 
 ## Version Control
 
-- **Current version**: 5.3.0 - effective October 16, 2026 for accounts created on or after that date; November 16, 2026 for accounts created before October 16, 2026 (owner decision of October 16, 2026; announced October 16, 2026; material change, 30 days' notice under section 24.2 for existing accounts). Files in the repository root.
+- **Current version**: 5.3.1 - effective October 16, 2026 for accounts created on or after that date; November 16, 2026 for accounts created before October 16, 2026 (owner decision of October 16, 2026; announced October 16, 2026; material change, 30 days' notice under section 24.2 for existing accounts). Files in the repository root. It replaces 5.3.0 (same day, same effective dates).
+  - 5.3.1 summary: 5.3.0 + higher GreenGo service fee caps per ticket in 11.6 b: Silver US$30, Gold US$28, Platinum US$25 (were US$10 / US$9 / US$8); fixed part, 10% and the US$1 first-listing rate unchanged.
   - 5.3.0 summary: aligned with the app (business mode of your own account, AI helpers in chat only, app-store trials, instant coin gifts, in-app withdrawal path, Brazil withdrawal for web Memberships and Coins, first-listing fee rate, guest-booking exclusions, Host-cancellation refunds, identity document for every Experience, trader declaration, AI consent model, moderation notices/appeals by email, repeat-offender and unfounded-report rules, child-safety reporting, account deletion) + new features (fixed upgrade discounts, new referral rewards, Platinum for community sponsoring).
 - **Previous version still applying to some accounts**: 5.2.1 (October 16, 2026) - clarification only: 7.3 c points to the in-app path for cancelling a web subscription (Profile > Account Settings > Manage subscription, which opens the Stripe billing portal). It applies to accounts created before October 16, 2026, until November 15, 2026. Files in `previous/` with the same file names (`previous/terms-and-conditions-<lang>.txt`); the folder is deleted on November 16, 2026.
 - **Upcoming versions**: an announced version that is not yet in force goes in `upcoming/` (same file names) until its effective date. None at the moment.
-- **Older versions**: 5.2.0 (October 14, 2026), 5.1.2 (October 13, 2026), 5.1.1 (October 13, 2026), 5.1.0 (October 11, 2026), 5.0.0 (October 9, 2026), 4.0.0 (September 15, 2026)
+- **Older versions**: 5.3.0 (October 16, 2026, superseded the same day by 5.3.1), 5.2.0 (October 14, 2026), 5.1.2 (October 13, 2026), 5.1.1 (October 13, 2026), 5.1.0 (October 11, 2026), 5.0.0 (October 9, 2026), 4.0.0 (September 15, 2026)
 
 ## Language Priority
 
