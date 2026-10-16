@@ -53,6 +53,8 @@ About these Terms; who can use GreenGo (18+); accounts and verification; what Gr
 ## Version Control
 
 - **Current published version**: 5.2.1 (October 16, 2026) - clarification only (not a material change): 7.3 c now points to the in-app path for cancelling a web subscription (Profile > Account Settings > Manage subscription, which opens the Stripe billing portal)
+- **Upcoming version**: 5.3.0, announced October 16, 2026, effective November 16, 2026 (material change, 30 days' notice under section 24.2). Files in `upcoming/` with the same file names (`upcoming/terms-and-conditions-<lang>.txt`). The files in the repository root stay the current version until the effective date; on November 16, 2026 the `upcoming/` files are moved to the root and the folder is emptied.
+  - 5.3.0 summary: aligned with the app (business mode of your own account, AI helpers in chat only, app-store trials, instant coin gifts, in-app withdrawal path, Brazil withdrawal for web Memberships and Coins, first-listing fee rate, guest-booking exclusions, Host-cancellation refunds, identity document for every Experience, trader declaration, AI consent model, moderation notices/appeals by email, repeat-offender and unfounded-report rules, child-safety reporting, account deletion) + new features (fixed upgrade discounts, new referral rewards, Platinum for community sponsoring).
 - **Previous versions**: 5.2.0 (October 14, 2026), 5.1.2 (October 13, 2026), 5.1.1 (October 13, 2026), 5.1.0 (October 11, 2026), 5.0.0 (October 9, 2026), 4.0.0 (September 15, 2026)
 
 ## Language Priority
